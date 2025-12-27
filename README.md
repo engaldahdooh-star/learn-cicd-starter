@@ -1,4 +1,4 @@
-![CI](https://github.com/engaldahdooh-star/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+[![ci](https://github.com/engaldahdooh-star/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/engaldahdooh-star/learn-cicd-starter/actions/workflows/ci.yml)
 
 # learn-cicd-starter (Notely)
 
